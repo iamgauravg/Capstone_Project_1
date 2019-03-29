@@ -1,1 +1,1 @@
-This project is to perform Breast cancer detection using a Data Science approach
+The purpose of this project is to perform breast cancer detection using a data science approach
